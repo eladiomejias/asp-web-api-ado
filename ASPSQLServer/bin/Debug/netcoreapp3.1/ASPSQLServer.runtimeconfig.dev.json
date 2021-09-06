@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Eladio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Eladio\\.nuget\\packages"
+    ]
+  }
+}
